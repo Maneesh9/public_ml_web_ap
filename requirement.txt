@@ -1,4 +1,5 @@
 numpy
 pickle
 streamlit
+streamlit -option -menu
 scikit
